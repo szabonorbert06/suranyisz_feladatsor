@@ -1,0 +1,7 @@
+D:\Szabó Norbert\aztali\orai2\orai2\obj\Debug\orai2.csproj.AssemblyReference.cache
+D:\Szabó Norbert\aztali\orai2\orai2\obj\Debug\orai2.csproj.CoreCompileInputs.cache
+D:\Szabó Norbert\aztali\orai2\orai2\bin\Debug\orai2.exe.config
+D:\Szabó Norbert\aztali\orai2\orai2\bin\Debug\orai2.exe
+D:\Szabó Norbert\aztali\orai2\orai2\bin\Debug\orai2.pdb
+D:\Szabó Norbert\aztali\orai2\orai2\obj\Debug\orai2.exe
+D:\Szabó Norbert\aztali\orai2\orai2\obj\Debug\orai2.pdb
